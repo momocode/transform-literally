@@ -1,0 +1,32 @@
+{
+  "name": "transform-literally",
+  "version": "0.1.0",
+  "description": "Describe transformations in object literal style",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momocode/transform-literally.git"
+  },
+  "keywords": [
+    "transform",
+    "pipeline",
+    "functional",
+    "literal"
+  ],
+  "author": "Simo Tukiainen <simo@momocode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/momocode/transform-literally/issues"
+  },
+  "homepage": "https://github.com/momocode/transform-literally#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "expect-to-be-a-promise": "^1.0.2",
+    "mocha": "^5.2.0"
+  }
+}

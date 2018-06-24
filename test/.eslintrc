@@ -1,0 +1,7 @@
+env:
+  mocha: true
+rules:
+  no-unused-expressions: off
+  no-labels:
+    - 2
+    - allowLoop: true
